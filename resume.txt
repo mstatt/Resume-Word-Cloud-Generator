@@ -1,0 +1,88 @@
+
+Experience
+Strategic IT Consultant					            2012 – Current
+
+Provide strategic IT leadership and direction for all aspects of IT planning, implementation, and support for companies ranging from SMEs to large-scale multinational enterprises across a multitude of industries.  
+
+Operations & Marketing				            
+* Drove key efforts in establishing a SaaS start-up company’s full function from concept to operational in two-month period  
+* Created integrated retail PWA with automated Social Media Campaigns to consistently rank #1 -10 on the first page of Google Search results 
+* Leveraged HP Reveal and Zappar augmented reality APIs with QR Code Integration to deliver forward-looking client touch-point interactions  
+* Developed Natural Language Processing (NLP) contextually aware chat application powered by AWS Lambda, S3 Gateway and Dynamo Database 
+* Built a scalable Hyperledger Fabric, Etherium, Solidity driven universal student transcript Blockchain application running on Ubuntu server 
+* Created a text translation tool using Google Apps Script w/ integrated Google translate, for real-time language translation of content
+* 
+Law Enforcement & Defense				            
+* Spearheaded Terror Threat Analysis application development, working closely with several elected political officials & law enforcement leadership
+* Designed & implemented scalable enterprise class national defense software, fully functional and secure across open public as well as private domains 
+* Upgraded UI and back-end functionality of privately hosted law enforcement application and personally oversaw migration to Google Cloud
+* 
+HealthCare				            
+* Executed the design and development of an enterprise-class cloud-based solution across 52 facilities, reducing admin time and errors for Skilled Nursing Management firm resulting in annual savings of $19 million 
+* Built & deployed Voice Integration into Dashboard through AWS and Amazon Alexa simultaneously integrating MS Band technologies to monitor patient health in real-time
+* 
+Application Security				            
+* Integrated a standalone application into Active Directory for SSO authentication allowing access from Corporate Apps Directory
+* Identified, programmatically exploited and fixed a vulnerability that had exposed over 100K users’ critical information within a court-ordered online drivers school application that serviced over 32 US states
+
+Legal				            
+* Developed NLP Tool for e-discovery for legal industry utilizing artificial neural networks, TF-IDF, and various machine-learning modules in pursuit of insight extrapolation from multiple file types and corpuses
+Technical Skills
+Blockchain, AWS (API-Gateway, Lambda & S3), Artificial Intelligence (Machine Learning, Artificial Neural Networks), Search Engine Optimization (SEO), Natural Language Processing (NLP), Data Modeling, Data Analysis
+
+Programming Languages: 
+Actionscript, ADO, ADO.Net, ASP, ASP.net, C, C++, CSS3, HTML5, Javascript, AJAX, Jquery, JSON, SQL, PHP, Python, C#, VB.net & VBScript  
+
+Software: 
+Azure Machine Learning, Google Cloud Platform, Google Apps for business, Search Engine Optimization, Windows Server, Red Hat Linux, Cisco IOS, Visual Studio .Net, MS Power BI, SQL Server, MS Office, MySQL, Oracle, SQL*Plus & Developer, IIS, Apache, VMWare, MS Project, Content Management Systems (Ushahidi, Joomla, Wordpress, Moodle) 
+
+Hardware: 
+Hardware Configuration, Disaster Planning and Recovery, Cisco Routing/Switch configuration, Network Security, High Availability Design: Windows/Linux Clustering, SAN, NAS 
+
+
+Certifications
+AWS Machine Learning by Example
+CIW - Certified Internet Web Professional 
+IBM Blockchain Foundation for Developers
+Deep Learning for Business
+Gamification
+Network+ Certification
+
+ Manufacturing (MES) 				            
+* Managed the design and functional support teams in sizes of 8 -10, for a global MES platform while on-site and remote
+* Coordinated with the business units and end users for issue resolution and system enhancements
+* Led the design and functional support teams in successful MES support implementation on 5 separate plants, internationally located, ranging in staff from 2,500 to upwards of 8,000 line workers
+* Spearheaded the “ZERO” errors initiative for the MES support team achieved a 96% error reduction rate in 3 months 
+* Drove integration and upgrade of CamStar from COA Core to CIO in Version 6 optimizing alignment with TIBCO Middleware across the entire client suite of manufactured Medical Device products 
+* Advised and executed on long term plant automation vision for client with over 40 international plants
+* Directed deployment, maintenance, support and continued enhancements of SSB’s installations of the SIMATIC IT MES software
+* Decisioned application design & infrastructure changes optimizing resource availability and issue resolution across greenfield & brownfield projects & sites
+
+
+Lead MES Solution Architect				            	       2013 – 2014
+* Reduced error resolution time for entire 24-hour MES plant from several hours to under 14-minute resolution threshold resulting in savings of over $5 million in downtime per error 
+* Architected and developed & implemented a solution to the shipping system resulting in multi-million-dollar savings
+* Developed and deployed a Natural Language Processing solution that assisted in gaining insights and isolating key factors of tickets in Service NOW
+
+
+Senior Software Engineer 				            	       2012 – 2013
+* Supervised development of user interfaces to internet and intranet applications 
+* Designed database architecture and server scripting to incorporate applications through multimedia authoring tools
+* Developed & coded a competitive pricing solution for international retail sector 
+* Coded surface & deep-dive CRUD database integration and management 
+* Managed a team of web application developers through training, feedback, coaching, and mentorship 
+
+
+Business Systems Analyst 				            	       2010 – 2012
+
+* Coordinated integrated projects with multiple internal platforms and multiple external vendors through to completion while maintaining uniformity and re-usability of capabilities 
+* Defined solutions (requirements, designs, services, recommendations) to business/systems problems
+
+Early Career 
+Senior Software Developer 				            	       2007 – 2010
+
+MES Application Developer 				            	       2005 – 2007
+
+Software Developer 					            	       2004 – 2005
+
+ 
