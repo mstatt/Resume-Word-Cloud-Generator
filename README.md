@@ -1,5 +1,3 @@
-"# Resume-Word-Cloud-Generator" 
-
 # Resume-Word-Cloud-Generator
 
 <div id="top"></div>
@@ -60,7 +58,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
 <br />
-See the https://github.com/ mstatt/Resume-Word-Cloud-Generator/issues for a full list of proposed features (and known issues).
+See the https://github.com/mstatt/Resume-Word-Cloud-Generator/issues for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -78,7 +76,7 @@ See the https://github.com/ mstatt/Resume-Word-Cloud-Generator/issues for a full
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/ mstatt/Resume-Word-Cloud-Generator]
+Project Link: [https://github.com/mstatt/Resume-Word-Cloud-Generator]
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
